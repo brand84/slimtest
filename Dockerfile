@@ -1,1 +1,1 @@
-FROM brand84/slimtest:v1
+FROM brand84/slimtest:v2
